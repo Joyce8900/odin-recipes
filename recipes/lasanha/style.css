@@ -1,0 +1,27 @@
+h1 {
+  width: 230px;
+  height: 110px;
+  padding: 10px;
+  margin-left: 20px;
+  color: #E9E2E2;
+  text-align: center;
+  font-family: Jacques Francois;
+  font-size: 45px;
+  font-weight: bold;
+  border: 1px solid black;
+  display: inline-block; 
+}
+img {
+  max-width: 100%; 
+  height: auto; 
+  display: inline-block; 
+  vertical-align: middle; 
+  
+
+}
+
+*{
+   background-color:  #ffba08;
+}
+
+
